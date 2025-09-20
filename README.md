@@ -1,2 +1,5 @@
-# Azure Static Website Template
-This repository can be used to create a simple Azure hosted static website.
+# Lions, Tigers, and Bears
+
+Credit to Brad Schiff for the tutorial: www.youtube.com/watch?v=AVmGmLFcukM&t=0s
+
+Link for the project: https://jolly-island-0cb17d410.1.azurestaticapps.net
